@@ -1,0 +1,21 @@
+body{
+    background-color: grey;
+    margin: 100px;
+}
+
+
+
+
+.login{
+    margin: 15%;
+    padding: 15%;
+    background-color: rebeccapurple;
+}
+
+button{
+    margin: 15%;
+    background-color: red;
+    
+    
+}
+
